@@ -1,0 +1,2 @@
+For ignoring: "git update-index --assume-unchanged "
+For reverting ignored files: "git update-index --no-assume-unchanged "

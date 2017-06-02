@@ -1,0 +1,1 @@
+You can also use .gitattributes (instead of .gitignore) to exclude entire filetypes. The file is pretty self-explanatory but I'm pasting the contents here for reference. Pay attention to the last line (*.class binary)
